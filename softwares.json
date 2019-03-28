@@ -1,0 +1,36 @@
+{
+    "CLIP STUDIO PAINT": {
+        "version": ["PRO", "EX", "DEBUT"],
+        "icon": ["main_icon", "main_icon_custom"],
+        "id": "558932393315139604",
+        "val": "1"
+    },
+
+    "Photoshop CC": {
+        "version": [],
+        "icon": ["main_icon"],
+        "id": "558950437470863360",
+        "val": "2"
+    },
+
+    "ペイントツールSAI": {
+        "version": [],
+        "icon": ["main_icon", "main_icon_custom"],
+        "id": "558956093750116362",
+        "val": "3"
+    },
+
+    "MediBangPaint": {
+        "version": [],
+        "icon": ["main_icon"],
+        "id": "558958092570591233",
+        "val": "4"
+    },
+
+    "FireAlpaca": {
+        "version": [],
+        "icon": ["main_icon"],
+        "id": "558959218917507073",
+        "val": "5"
+    }
+}
